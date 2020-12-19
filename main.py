@@ -10,6 +10,7 @@ black = (255,255,255)
 red = (21,3, 50, 80)
 green = (0, 255, 0)
 blue = (0,0,0)
+gray = (0,0,0,0.4)
  
 dis_width = 600
 dis_height = 400

@@ -1,1 +1,1 @@
-# SnakeGame in Python 
+# 2D SnakeGame in Python 
